@@ -11,7 +11,7 @@ La sua competenza in materia e la sua passione per l'innovazione guidano la nost
 
 ### Vincenzo Torchia
 Co-fondatore di HydraHackerSec, Vincenzo Torchia è un esperto in cybersecurity con una profonda conoscenza delle minacce digitali emergenti.
-La sua visione strategica e la capacità di anticipare le sfide ci consentono di offrire soluzioni efficaci e mirate.
+La sua visione strategica e la sua capacità di anticipare le sfide ci consentono di offrire soluzioni efficaci e mirate.
 
 ## La Nostra Specializzazione
 
