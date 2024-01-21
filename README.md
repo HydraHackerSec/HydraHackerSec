@@ -1,6 +1,6 @@
 # HydraHackerSec
 
-Benvenuti in HydraHackerSec, una collaborazione innovativa riguardante la sicurezza informatica fondata da [Vincenzo Torchia](https://github.com/BinxSake) e [Federico Carioni](https://github.com/Troclea)
+Benvenuti in HydraHackerSec, una collaborazione innovativa riguardante la sicurezza informatica fondata da [Vincenzo Torchia](https://github.com/BinxSake) e [Federico Carioni](https://github.com/Troclea).
 La nostra missione è proteggere il vostro mondo digitale attraverso soluzioni avanzate e approcci proattivi nell'ambito della cybersecurity.
 
 ## Chi Siamo
